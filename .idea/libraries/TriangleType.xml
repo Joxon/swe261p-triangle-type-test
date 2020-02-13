@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="TriangleType">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/TriangleType.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/main" />
+    </SOURCES>
+  </library>
+</component>
